@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+.button-count-div{
+	display:flex;
+	justify-content:left;
+	gap:1rem;
+}
